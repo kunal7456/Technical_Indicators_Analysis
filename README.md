@@ -1,4 +1,5 @@
-Trading Strategies Analysis
+Trading Strategies Analysis :
+
 This project provides Python code to analyze and implement various trading strategies using financial data obtained from Yahoo Finance. The strategies implemented include:
 
 Relative Strength Index (RSI) Strategy:
